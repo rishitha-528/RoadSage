@@ -1,0 +1,16 @@
+vehicle_count,speed,weather,day,segment,congestion
+120,25,Rain,Monday,Highway,High
+80,45,Clear,Tuesday,City,Low
+100,30,Cloudy,Wednesday,City,Medium
+150,20,Rain,Friday,Highway,High
+60,50,Clear,Sunday,Residential,Low
+90,35,Cloudy,Thursday,City,Medium
+110,28,Rain,Monday,Highway,High
+70,48,Clear,Saturday,Residential,Low
+95,33,Cloudy,Tuesday,City,Medium
+130,22,Rain,Friday,Highway,High
+55,55,Clear,Sunday,Residential,Low
+85,38,Cloudy,Wednesday,City,Medium
+140,18,Rain,Thursday,Highway,High
+65,45,Clear,Saturday,Residential,Low
+105,32,Cloudy,Monday,City,Medium
